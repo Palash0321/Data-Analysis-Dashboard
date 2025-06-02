@@ -2,7 +2,7 @@
 This repository contains the code and resources for an interactive IPL (Indian Premier League) Analysis Dashboard. The project aims to provide comprehensive insights into various aspects of the IPL, including team performance, player statistics, match outcomes, and historical trends.
 
 # Project Overview
-The IPL Analysis Dashboard is built to help cricket enthusiasts, analysts, and data aficionados explore IPL data with ease. It leverages data visualization techniques to present complex information intuitively and engagingly. From tracking the performance of individual players to understanding match dynamics and historical team dominance, this dashboard offers a 360-degree view of the tournament.
+The IPL Analysis Dashboard is built to help cricket enthusiasts, analysts, and data aficionados easily explore IPL data. It leverages data visualization techniques to present complex information intuitively and engagingly. From tracking the performance of individual players to understanding match dynamics and historical team dominance, this dashboard offers a 360-degree view of the tournament.
 
 # Key Features
 **Tournament Overview:** Quickly view key statistics for the entire tournament, including the Title Winner, Orange Cap holder (most runs), Purple Cap holder (most wickets), and overall 6s and 4s hit.
@@ -21,6 +21,11 @@ The IPL Analysis Dashboard is built to help cricket enthusiasts, analysts, and d
 
 # Technologies Used
 **Power BI:** For building interactive and dynamic dashboards and reports.
+
+# Dataset used 
+The data used for this analysis is sourced from 
+<a href = "https://github.com/Palash0321/Data-Analysis-Dashboard/blob/main/ipl_matches_2008_2022.csv">ipl analysis data</a>
+<a href = "https://github.com/Palash0321/Data-Analysis-Dashboard/blob/main/ipl_ball_by_ball_2008_2022.csv">Dataset</a>
 
 
 

@@ -50,3 +50,30 @@ What is the strike rate of a selected batsman?
 
 Who are the top batsmen by runs/strike rate/boundaries?
 
+# Bowling Statistics:
+## IPL Bowling Stats / Individual Bowler Performance:
+How many wickets did a selected bowler take?
+
+What is the economy rate of a selected bowler?
+
+What is the bowling average of a selected bowler?
+
+What is the bowling strike rate of a selected bowler?
+
+Who are the top bowlers by wickets/economy/average?
+
+# Match Outcomes & Trends:
+**Matches Won by Toss Decision:** How many matches were won by the team that chose to bat first vs. the team that chose to field first?
+
+**Matches Won by Venue:** How many matches were won at each specific venue, broken down by result type (e.g., by runs, by wickets)?
+
+**Total Wins by Team (Season-wise):** How many matches did each team win in a particular season (or across all seasons)?
+
+**Matches Won by Result Type:** What are the proportions of wins by runs, wickets, super over, or no result?
+
+Dashboard Controls/Filters:
+**Select Season:** How do the above metrics change for a specific IPL season?
+
+**Select Batsman:** What are the detailed stats for a particular batsman?
+
+**Select Bowler:** What are the detailed stats for a particular bowler?

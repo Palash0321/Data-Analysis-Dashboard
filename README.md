@@ -24,7 +24,6 @@ The IPL Analysis Dashboard is built to help cricket enthusiasts, analysts, and d
 
 # Dataset used 
 The data used for this analysis is sourced from 
-<a href = "https://github.com/Palash0321/Data-Analysis-Dashboard/blob/main/ipl_matches_2008_2022.csv">ipl analysis data</a>
 <a href = "https://github.com/Palash0321/Data-Analysis-Dashboard/blob/main/ipl_ball_by_ball_2008_2022.csv">Dataset</a>
 
 # Overall Tournament KPIs:
@@ -78,7 +77,7 @@ Who are the top bowlers by wickets/economy/average?
 
 **Select Bowler:** What are the detailed stats for a particular bowler?
 
- Dashboard interaction <a href = "https://github.com/Palash0321/Data-Analysis-Dashboard/blob/main/Screenshot%202025-05-29%20174624.png">View Dashboard</a>
+**Dashboard interaction** <a href = "https://github.com/Palash0321/Data-Analysis-Dashboard/blob/main/Screenshot%202025-05-29%20174624.png">View Dashboard</a>
 
  # Dashboard
  ![Screenshot 2025-05-29 174624](https://github.com/user-attachments/assets/fdc65675-c359-4939-856d-921dd5245a51)

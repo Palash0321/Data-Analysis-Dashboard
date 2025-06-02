@@ -78,5 +78,9 @@ Who are the top bowlers by wickets/economy/average?
 
 **Select Bowler:** What are the detailed stats for a particular bowler?
 
-#Dashboard interaction <a href = "https://github.com/Palash0321/Data-Analysis-Dashboard/blob/main/Screenshot%202025-05-29%20174624.png">View Dashboard</a>
+ Dashboard interaction <a href = "https://github.com/Palash0321/Data-Analysis-Dashboard/blob/main/Screenshot%202025-05-29%20174624.png">View Dashboard</a>
+
+ # Dashboard
+ ![Screenshot 2025-05-29 174624](https://github.com/user-attachments/assets/fdc65675-c359-4939-856d-921dd5245a51)
+
 

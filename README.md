@@ -28,15 +28,15 @@ The data used for this analysis is sourced from
 <a href = "https://github.com/Palash0321/Data-Analysis-Dashboard/blob/main/ipl_ball_by_ball_2008_2022.csv">Dataset</a>
 
 # Overall Tournament KPIs:
--**Title Winner:** Which team won the IPL season?
+**Title Winner:** Which team won the IPL season?
 
--**Orange Cap:** Who was the top run-scorer in the season?
+**Orange Cap:** Who was the top run-scorer in the season?
 
--**Purple Cap:** Who was the top wicket-taker in the season?
+**Purple Cap:** Who was the top wicket-taker in the season?
 
--**Total 6s:** What was the total number of sixes hit in the season?
+**Total 6s:** What was the total number of sixes hit in the season?
 
--**Total 4s:** What was the total number of fours hit in the season?
+**Total 4s:** What was the total number of fours hit in the season?
 
 # Batting Statistics:
 ## IPL Batting Stats / Individual Batsman Performance:
@@ -71,9 +71,12 @@ Who are the top bowlers by wickets/economy/average?
 
 **Matches Won by Result Type:** What are the proportions of wins by runs, wickets, super over, or no result?
 
-Dashboard Controls/Filters:
+# Dashboard Controls/Filters:
 **Select Season:** How do the above metrics change for a specific IPL season?
 
 **Select Batsman:** What are the detailed stats for a particular batsman?
 
 **Select Bowler:** What are the detailed stats for a particular bowler?
+
+#Dashboard interaction <a href = "https://github.com/Palash0321/Data-Analysis-Dashboard/blob/main/Screenshot%202025-05-29%20174624.png">View Dashboard</a>
+

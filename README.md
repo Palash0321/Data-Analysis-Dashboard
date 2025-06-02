@@ -24,7 +24,8 @@ The IPL Analysis Dashboard is built to help cricket enthusiasts, analysts, and d
 
 # Dataset used 
 The data used for this analysis is sourced from 
-<a href = "https://github.com/Palash0321/Data-Analysis-Dashboard/blob/main/ipl_ball_by_ball_2008_2022.csv">Dataset</a>
+<a href = "https://github.com/Palash0321/Data-Analysis-Dashboard/blob/main/ipl_matches_2008_2022.csv">Dataset1</a>
+<a href = "https://github.com/Palash0321/Data-Analysis-Dashboard/blob/main/ipl_ball_by_ball_2008_2022.csv">Dataset2</a>
 
 # Overall Tournament KPIs:
 **Title Winner:** Which team won the IPL season?

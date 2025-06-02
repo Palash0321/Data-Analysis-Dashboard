@@ -28,9 +28,25 @@ The data used for this analysis is sourced from
 <a href = "https://github.com/Palash0321/Data-Analysis-Dashboard/blob/main/ipl_ball_by_ball_2008_2022.csv">Dataset</a>
 
 # Overall Tournament KPIs:
-
 **Title Winner:** Which team won the IPL season?
+
 **Orange Cap:** Who was the top run-scorer in the season?
+
 **Purple Cap:** Who was the top wicket-taker in the season?
+
 **Total 6s:** What was the total number of sixes hit in the season?
+
 **Total 4s:** What was the total number of fours hit in the season?
+
+# Batting Statistics:
+## IPL Batting Stats / Individual Batsman Performance:
+How many runs did a selected batsman score?
+
+How many 6s did a selected batsman hit?
+
+How many 4s did a selected batsman hit?
+
+What is the strike rate of a selected batsman?
+
+Who are the top batsmen by runs/strike rate/boundaries?
+
